@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/default_margin_padding"
+        android:layout_marginLeft="@dimen/default_margin_padding"
+        android:layout_marginRight="@dimen/default_margin_padding"
+        card_view:cardElevation="@dimen/cardview_default_elevation">
+
+        <TextView
+            android:id="@+id/tv_recipe_ingredients"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/primaryTextColor"
+            android:background="@color/primaryLightColor"
+            android:gravity="center"
+            android:textSize="@dimen/ingredients_list_text_size"
+            android:paddingStart="@dimen/default_margin_padding"
+            android:paddingEnd="@dimen/default_margin_padding"
+            android:paddingTop="@dimen/default_margin_padding"
+            android:lineSpacingExtra="@dimen/extra_line_spacing"/>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_recipe_step_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

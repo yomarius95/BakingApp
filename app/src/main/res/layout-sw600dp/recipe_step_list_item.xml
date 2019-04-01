@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/touch_selector"
+    android:layout_marginTop="@dimen/step_list_item_margin"
+    android:layout_marginBottom="@dimen/step_list_item_margin">
+
+    <TextView
+        android:id="@+id/tv_recipe_step_short_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/TextAppearance.AppCompat.Title"
+        android:fontFamily="monospace"
+        android:gravity="center"
+        android:padding="@dimen/default_margin_padding"
+        android:textColor="@color/secondaryTextColor"
+        android:textSize="@dimen/step_list_item_text_size"/>
+
+</FrameLayout>

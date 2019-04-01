@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:minHeight="36dp"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/widget_padding">
+
+    <TextView
+        android:id="@+id/list_item_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/primaryTextColor"
+        android:padding="@dimen/widget_padding"
+        android:layout_weight="2"/>
+    <TextView
+        android:id="@+id/list_item_quantity"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/primaryTextColor"
+        android:padding="@dimen/widget_padding"
+        android:layout_weight="1"/>
+    <TextView
+        android:id="@+id/list_item_measure"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/primaryTextColor"
+        android:padding="@dimen/widget_padding"
+        android:layout_weight="1"/>
+    <TextView
+        android:id="@+id/list_item_check"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/primaryTextColor"
+        android:padding="@dimen/widget_padding"
+        android:layout_weight="1"
+        android:visibility="gone"/>
+
+</LinearLayout>

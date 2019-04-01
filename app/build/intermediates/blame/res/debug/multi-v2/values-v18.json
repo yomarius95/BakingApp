@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/andrei/Desktop/Proiecte/Baking_App/Baking App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/de811b0f61c1fa6c7edcf79a0c4ac23a/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

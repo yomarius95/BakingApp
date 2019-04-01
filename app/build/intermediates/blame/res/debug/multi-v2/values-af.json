@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/andrei/Desktop/Proiecte/Baking_App/Baking App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml",
+            "map": [
+                {
+                    "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/de811b0f61c1fa6c7edcf79a0c4ac23a/res/values-af/values-af.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,209,309,415,500,603,721,797,874,965,1058,1154,1248,1348,1441,1536,1635,1730,1824,1905,2012,2115,2212,2320,2422,2524,2678,2776",
+                        "endColumns": "103,99,105,84,102,117,75,76,90,92,95,93,99,92,94,98,94,93,80,106,102,96,107,101,101,153,97,79",
+                        "endOffsets": "204,304,410,495,598,716,792,869,960,1053,1149,1243,1343,1436,1531,1630,1725,1819,1900,2007,2110,2207,2315,2417,2519,2673,2771,2851"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,209,309,415,500,603,721,797,874,965,1058,1154,1248,1348,1441,1536,1635,1730,1824,1905,2012,2115,2212,2320,2422,2524,2678,3279",
+                        "endColumns": "103,99,105,84,102,117,75,76,90,92,95,93,99,92,94,98,94,93,80,106,102,96,107,101,101,153,97,79",
+                        "endOffsets": "204,304,410,495,598,716,792,869,960,1053,1149,1243,1343,1436,1531,1630,1725,1819,1900,2007,2110,2207,2315,2417,2519,2673,2771,3354"
+                    }
+                },
+                {
+                    "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/02aad6898ab3b9ba9778e6b2b894f44b/res/values-af/values-af.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,138,212,277,343,419,493",
+                        "endColumns": "82,73,64,65,75,73,64",
+                        "endOffsets": "133,207,272,338,414,488,553"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33,34,35",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "2776,2859,2933,2998,3064,3140,3214",
+                        "endColumns": "82,73,64,65,75,73,64",
+                        "endOffsets": "2854,2928,2993,3059,3135,3209,3274"
+                    }
+                },
+                {
+                    "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/fcc66decd6070ef67d87675c6297b1ca/res/values-af/values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "3359",
+                        "endColumns": "100",
+                        "endOffsets": "3455"
+                    }
+                }
+            ]
+        }
+    ]
+}
